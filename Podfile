@@ -7,6 +7,7 @@ target 'ListViews' do
 pod 'Alamofire', '~> 4.4'
 pod 'SwiftyJSON'
 pod 'IJProgressView', :git => 'https://github.com/Isuru-Nanayakkara/IJProgressView.git'
+pod 'SwiftLint'
   # Pods for ListViews
 
   target 'ListViewsTests' do

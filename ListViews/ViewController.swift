@@ -22,6 +22,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private var lAuthor:String = ""
     private var lCreatedAt:String = ""
     private var lStoryUrl:String = ""
+    private var ThisVariableIsSoFuckinfgLongSoItsOnlyForTestsPurposesDoYouUnderstand = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
